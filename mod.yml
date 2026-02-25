@@ -9,5 +9,4 @@ assets:
     method: copy
     source:
     - name: pref_0.bin
-
     type: binary
