@@ -1,4 +1,4 @@
-title: maybe
+title: Joanie Loves Chachi
 originalAuthor: Shananas
 game: kh2
 assets:
@@ -9,4 +9,5 @@ assets:
     method: copy
     source:
     - name: pref_0.bin
+
     type: binary
