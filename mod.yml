@@ -6,7 +6,11 @@ assets:
   method: binarc  
   source:
   - name: pref
-    method: copy
-    source:
-    - name: pref_0.bin
+    method: binarc
     type: binary
+    source:
+    - name: fmab
+      type: list
+      method: copy
+      source:
+      - name: fmab_0.list
